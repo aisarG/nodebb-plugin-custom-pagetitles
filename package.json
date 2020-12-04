@@ -12,18 +12,6 @@
     "plugin",
     "pagestitles"
   ],
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged",
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
-  },
-  "lint-staged": {
-    "*.js": [
-      "eslint --fix",
-      "git add"
-    ]
-  },
   "author": {
     "name": "Aisar Gatrif",
     "email": "aisargatrif@gmail.com"
@@ -35,14 +23,5 @@
   "readmeFilename": "README.md",
   "nbbpm": {
     "compatibility": "^1.15.5"
-  },
-  "devDependencies": {
-    "@commitlint/cli": "^9.1.2",
-    "@commitlint/config-angular": "^7.1.2",
-    "eslint": "^7.7.0",
-    "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.8.0",
-    "husky": "^2.4.0",
-    "lint-staged": "^10.0.9"
   }
 }

@@ -1,3 +1,3 @@
 # A plugin for changing the titles of the pages.
 
-Description in progress...
+This plugin should not be used just yet. It's only for internal use only.

@@ -5,7 +5,7 @@
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-plugin-custom-pagetitles"
+    "url": "https://github.com/aisarG/nodebb-plugin-custom-pagetitles"
   },
   "keywords": [
     "nodebb",
@@ -30,11 +30,11 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-plugin-custom-pagetitles/issues"
+    "url": "https://github.com/aisarG/nodebb-plugin-custom-pagetitles/issues"
   },
   "readmeFilename": "README.md",
   "nbbpm": {
-    "compatibility": "^1.15.0"
+    "compatibility": "^1.15.5"
   },
   "devDependencies": {
     "@commitlint/cli": "^9.1.2",
